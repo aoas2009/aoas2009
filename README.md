@@ -6,7 +6,7 @@ Essa conta é primariamente usada para fins escolares.
 Porém sinta-se avontade para fuçar pelos meus repositórios, ou fazer qualquer coisa que curiosos fazem...
 Até logo!
 
-    _______     _______    _______     _______    ________ 
+   _______     _______    _______     _______    ________ 
   ╱╱       ╲  ╱╱       ╲  ╱       ╲╲  ╱       ╲╲ ╱    ╱   ╲
  ╱╱        ╱ ╱╱        ╱ ╱        ╱╱ ╱-        ╱╱         ╱
 ╱       --╱ ╱        _╱ ╱         ╱ ╱        _╱ ╲__     ╱╱ 
