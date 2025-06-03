@@ -5,10 +5,3 @@ Eu gosto de Música e Jogos :D
 Essa conta é primariamente usada para fins escolares.
 Porém sinta-se avontade para fuçar pelos meus repositórios, ou fazer qualquer coisa que curiosos fazem...
 Até logo!
-``
-   _______     _______    _______     _______    ________ 
-  ╱╱       ╲  ╱╱       ╲  ╱       ╲╲  ╱       ╲╲ ╱    ╱   ╲
- ╱╱        ╱ ╱╱        ╱ ╱        ╱╱ ╱-        ╱╱         ╱
-╱       --╱ ╱        _╱ ╱         ╱ ╱        _╱ ╲__     ╱╱ 
-╲________╱  ╲____╱___╱  ╲___╱____╱  ╲________╱    ╲____╱╱  
-``
