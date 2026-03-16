@@ -25,3 +25,4 @@ A começar a trabalhar na *PicPay* (◔◡◔)
 
 Este `README.md` tem super poderes de vaca
 <img width="100%" height="200" src="https://github.com/aoas2009/description_gifs/blob/main/saint-rain-world-rain-world.gif" />
+vou terminar isso aq dps
