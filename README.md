@@ -1,4 +1,4 @@
-# EU (●'◡'●)
+# EU ('◡')
 Sou o Artur de Oliveira! Atualmente estudante da Germinare Tech, mas em breve um desenvolvedor de sistemas :D
 
 Trabalho/estudo primariamente **Back-End**, mas tenho interesse em todas as areas que englobam o desenvolvimento!
