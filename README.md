@@ -1,8 +1,7 @@
 # EU ('◡')
 Sou o Artur de Oliveira! Atualmente estudante da Germinare Tech, mas em breve um desenvolvedor de sistemas :D
 
-Trabalho/estudo primariamente **Back-End**, mas tenho interesse em todas as areas que englobam o desenvolvimento!
-A começar a trabalhar na *PicPay* (◔◡◔)
+Trabalho/estudo primariamente **Back-End**, mas tenho interesse em todas as areas que englobam o desenvolvimento! (◔◡◔)
 - As linguagens que eu sei/estou aprendendo:
 <div style="display: flex; gap: 10px">
   <img width="100" height="100" alt="java" src="https://github.com/user-attachments/assets/f823b75b-fc1e-4e66-9840-64b74a119291" />
